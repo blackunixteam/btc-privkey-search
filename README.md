@@ -8,6 +8,6 @@ Run pip install bitcoin, sys, and requests to install dependencies. Download the
 
 # Known issues
 Sometimes there is an api error but this is not a problem and you can ignore it.
-
+limited by code loop to 2000000 keys 
 
 
