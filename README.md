@@ -1,4 +1,4 @@
-# Merged from lolapus repository
+# Merged from lolapus repository - https://github.com/lolapus/Bitcoin-private-key-generator
 
 # Bitcoin private key generator
 Generates random private keys until it finds one with some satoshis in the corresponding address.
